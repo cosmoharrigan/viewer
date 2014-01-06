@@ -1,5 +1,5 @@
 {
-  "name": "atomspace viewer",
+  "name": "atomspace-viewer",
   "version": "0.0.1",
   "description": "AtomSpace Viewer",
   "main": "web.js",
